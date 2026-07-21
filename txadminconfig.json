@@ -26,7 +26,7 @@
         "FieldName": "SpecificBuildVersionURL",
         "InputType": "url",
         "ParamFieldName": "SpecificBuildVersionURL",
-        "DefaultValue": "",
+        "DefaultValue": "https://downloads.cfx-services.net/prod/019f8155-958f-7748-af5a-e80e9b48966c/cfx-server_linux_x64.tar.xz",
         "Placeholder": "https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/6593-7672c8c849165dad70a1e82f89e31059d8fcf20d/server.zip",
         "EnumValues": {}
     }
